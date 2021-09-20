@@ -4,21 +4,6 @@
     "username": "ansel",
     "password": "$2a$10$AT6vItbpwAWtlpDsom7K.eIMjL/1MnG09yRTV2f6PuSHzZU8GMEp.",
     "create_at": "September 19, 2021",
-    "activities": [
-      {
-        "id": "fb33b586-5dcc-44a4-8c51-a836688a261b",
-        "activity": "Ngoding",
-        "date": "2021-08-12",
-        "time": "01:40",
-        "complete": ""
-      },
-      {
-        "id": "a2f3cdf6-bba6-4640-a147-0cbdd6d6e8c4",
-        "activity": "Learning",
-        "date": "2021-08-11",
-        "time": "01:41",
-        "complete": ""
-      }
-    ]
+    "activities": []
   }
 ]
