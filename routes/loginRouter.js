@@ -19,7 +19,7 @@ router.post("/", (req, res) => {
     res.json({ token: token, data: authentifikasi });
   } else {
     res.send({
-      message: "username/password is wrong !",
+      message: "username/password is wrong yeah !",
       testerOne: username,
       testerTwo: authentifikasi,
     });
