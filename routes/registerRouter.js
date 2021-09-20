@@ -15,7 +15,7 @@ router.post("/", (req, res) => {
     create_at: moment(new Date()).format("LL"),
     activities: [],
   });
-  res.send({ message: "success register" });
+  res.send({ message: "success register", dataUsers });
   fs.writeFileSync("data/data.json", JSON.stringify(dataUsers));
 });
 
